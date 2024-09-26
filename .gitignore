@@ -1,0 +1,5 @@
+/.env
+/chat/__pycache__/
+/chat/migrations/__pycache__/
+/mysite/__pycache__/
+/db.sqlite3
